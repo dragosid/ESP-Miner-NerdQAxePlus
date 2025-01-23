@@ -26,7 +26,7 @@
 #include "stratum_task.h"
 #include "system.h"
 
-#define STRATUM_WATCHDOG_TIMEOUT_SECONDS 3600
+#define STRATUM_WATCHDOG_TIMEOUT_SECONDS 200000
 
 System SYSTEM_MODULE;
 
